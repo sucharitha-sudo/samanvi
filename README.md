@@ -14,7 +14,7 @@ working on github
 4. m
 5. y
    
-How to create a table(use only hyphens to seperate header row)
+How to create a table(use  pipes for vertical lines and hyphens to seperate header row)
 
 ## table 1
 suchi|vamsi
